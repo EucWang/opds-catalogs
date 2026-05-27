@@ -1,0 +1,18 @@
+[
+    {
+        "id": "gutenberg",
+        "name": "Project Gutenberg",
+        "url": "https://m.gutenberg.org/ebooks.opds/?format=opds",
+        "description": "Over 70,000 free eBooks",
+        "category": "public",
+        "supportsSearch": true
+    },
+    {
+        "id": "gallica",
+        "name": "Gallica (BnF)",
+        "url": "https://gallica.bnf.fr/opds",
+        "description": "French National Library — public domain eBooks",
+        "category": "public",
+        "supportsSearch": true
+    }
+]
