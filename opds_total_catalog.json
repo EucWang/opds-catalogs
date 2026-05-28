@@ -5,10 +5,10 @@
         {
             "id": "arxiv",
             "name": "arXiv",
-            "url": "http://arxiv.maplepop.com/catalog/",
-            "description": "Archive over 2 million latest PDF e-prints in science subjects",
+            "url": "https://export.arxiv.org/api/query",
+            "description": "Open access archive of scholarly articles",
             "category": "public",
-            "supportsSearch": false,
+            "supportsSearch": true,
             "language": "en"
         },
         {
