@@ -1,0 +1,51 @@
+{
+    "version": 2,
+    "updated": "2026-05-27 12:22:00",
+    "catalogs": [
+        {
+            "id": "gutenberg",
+            "name": "Project Gutenberg",
+            "url": "https://m.gutenberg.org/ebooks.opds/?format=opds",
+            "description": "Over 70,000 free eBooks in the public domain",
+            "category": "public",
+            "supportsSearch": true,
+            "language": "en"
+        },
+        {
+            "id": "standard-ebooks",
+            "name": "Standard Ebooks",
+            "url": "https://standardebooks.org/feeds/opds/all",
+            "description": "High-quality, carefully formatted public domain ebooks",
+            "category": "public",
+            "supportsSearch": true,
+            "language": "en"
+        },
+        {
+            "id": "gallica",
+            "name": "Gallica (BnF)",
+            "url": "https://gallica.bnf.fr/opds",
+            "description": "French National Library — millions of public domain eBooks",
+            "category": "public",
+            "supportsSearch": true,
+            "language": "fr"
+        },
+        {
+            "id": "arxiv",
+            "name": "arXiv",
+            "url": "https://export.arxiv.org/api/query",
+            "description": "Open access archive of scholarly articles",
+            "category": "public",
+            "supportsSearch": true,
+            "language": "en"
+        },
+        {
+            "id": "openedition",
+            "name": "OpenEdition",
+            "url": "https://opds.openedition.org/",
+            "description": "Academic books and journals from OpenEdition platform",
+            "category": "public",
+            "supportsSearch": true,
+            "language": "fr"
+        }
+    ]
+}
