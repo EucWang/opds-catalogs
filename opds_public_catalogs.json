@@ -12,12 +12,12 @@
             "language": "en"
         },
         {
-            "id": "standard-ebooks",
-            "name": "Standard Ebooks",
-            "url": "https://standardebooks.org/feeds/opds/all",
-            "description": "High-quality, carefully formatted public domain ebooks",
+            "id": "manybooks",
+            "name": "manybooks",
+            "url": "https://manybooks.net/opds",
+            "description": "50000+ Free eBooks in the Genres you Love",
             "category": "public",
-            "supportsSearch": true,
+            "supportsSearch": false,
             "language": "en"
         },
         {
@@ -37,15 +37,6 @@
             "category": "public",
             "supportsSearch": true,
             "language": "en"
-        },
-        {
-            "id": "openedition",
-            "name": "OpenEdition",
-            "url": "https://opds.openedition.org/",
-            "description": "Academic books and journals from OpenEdition platform",
-            "category": "public",
-            "supportsSearch": true,
-            "language": "fr"
         }
     ]
 }
