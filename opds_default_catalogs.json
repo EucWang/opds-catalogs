@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "updated": "2026-05-29 12:22:00",
     "catalogs": [
         {
@@ -28,15 +28,6 @@
             "category": "public",
             "supportsSearch": true,
             "language": "fr"
-        },
-        {
-            "id": "arxiv",
-            "name": "arXiv",
-            "url": "https://arxiv.maplepop.com/catalog/",
-            "description": "Open access archive of scholarly articles",
-            "category": "public",
-            "supportsSearch": false,
-            "language": "en"
         }
     ]
 }
