@@ -1,6 +1,6 @@
 {
-    "version": 2,
-    "updated": "2026-05-27 12:22:00",
+    "version": 3,
+    "updated": "2026-05-29 12:22:00",
     "catalogs": [
         {
             "id": "gutenberg",
@@ -32,7 +32,7 @@
         {
             "id": "arxiv",
             "name": "arXiv",
-            "url": "https://export.arxiv.org/api/query",
+            "url": "https://arxiv.maplepop.com/catalog/",
             "description": "Open access archive of scholarly articles",
             "category": "public",
             "supportsSearch": true,
