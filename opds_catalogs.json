@@ -20,6 +20,15 @@
             "supportsSearch": false,
             "language": "en"
         },
+          {
+            "id": "unglue",
+            "name": "Unglue",
+            "url": "https://www.unglue.it/api/opds/",
+            "description": "Unglue.it is a place for individuals and institutions to join together in support of free ebooks. ",
+            "category": "public",
+            "supportsSearch": true,
+            "language": "en"
+        },
         {
             "id": "gallica",
             "name": "Gallica (BnF)",
