@@ -37,6 +37,24 @@
             "category": "public",
             "supportsSearch": true,
             "language": "fr"
+        },
+        {
+            "id": "wenyuange",
+            "name": "文渊阁",
+            "url": "https://wenyuange.org/opds/",
+            "description": "文渊阁藏书",
+            "category": "public",
+            "supportsSearch": true,
+            "language": "zh"
+        },
+        {
+            "id": "wenku8-opds",
+            "name": "轻小说文库",
+            "url": "https://opds.wol.moe/zh_CN",
+            "description": "轻小说文库",
+            "category": "public",
+            "supportsSearch": true,
+            "language": "zh-CN"
         }
     ]
 }
