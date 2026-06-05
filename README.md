@@ -1,9 +1,9 @@
 # OPDS书源整理
 
 
- 整理日期： 2026年6月5日
- 电子书阅读器： 随阅/Handy Reader
- 官方网站： https://handyreader.top
+- 整理日期： 2026年6月5日
+- 电子书阅读器： [随阅](https://play.google.com/store/apps/details?id=com.wxn.reader)
+- 官方网站： https://handyreader.top
 
 
 ## arxiv
