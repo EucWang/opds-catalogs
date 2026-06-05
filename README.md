@@ -1,9 +1,10 @@
-# opds-catalogs
-opds-catalogs
+# OPDS书源整理
 
-OPDS catalogs
-
-整理日期： 2026年6月5日
+```
+ 整理日期： 2026年6月5日
+ 电子书阅读器： 随阅/Handy Reader
+ 官方网站： https://handyreader.top
+```
 
 ## arxiv
 - URL：
